@@ -1,8 +1,8 @@
 ---
 - include: system.yml
 - include: drupal.yml
-- include: libraries.yml
 - include: modules.yml
+- include: libraries.yml
 - include: vsets.yml
 - include: roles-permissions.yml
 - include: content.yml
